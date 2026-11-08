@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Zainstaluj ChocoArch
+Exec=konsole -e sudo archinstall
+Icon=system-software-install
+Terminal=false
